@@ -1,0 +1,16 @@
+INSERT INTO paises (nome, capital, continente, area_km2, populacao) VALUES
+                                                                        ('Japão', 'Tóquio', 'Ásia', 377975.00, 125800000),
+                                                                        ('África do Sul', 'Pretória', 'África', 1221037.00, 59310000),
+                                                                        ('Indonésia', 'Jacarta', 'Ásia', 1904569.00, 273800000),
+                                                                        ('Polônia', 'Varsóvia', 'Europa', 312696.00, 37970000),
+                                                                        ('Ucrânia', 'Kiev', 'Europa', 603500.00, 44130000),
+                                                                        ('Peru', 'Lima', 'América do Sul', 1285216.00, 32970000),
+                                                                        ('Colômbia', 'Bogotá', 'América do Sul', 1141748.00, 50880000),
+                                                                        ('Filipinas', 'Manila', 'Ásia', 300000.00, 109600000),
+                                                                        ('Arábia Saudita', 'Riad', 'Ásia', 2149690.00, 34810000),
+                                                                        ('Israel', 'Jerusalém', 'Ásia', 20770.00, 9220000),
+                                                                        ('Emirados Árabes Unidos', 'Abu Dhabi', 'Ásia', 83600.00, 9890000),
+                                                                        ('Áustria', 'Viena', 'Europa', 83871.00, 8900000),
+                                                                        ('República Tcheca', 'Praga', 'Europa', 78867.00, 10700000),
+                                                                        ('Irã', 'Teerã', 'Ásia', 1648195.00, 83990000),
+                                                                        ('Vietnã', 'Hanói', 'Ásia', 331212.00, 97340000);
