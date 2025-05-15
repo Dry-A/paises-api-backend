@@ -41,7 +41,7 @@ API REST desenvolvida com Spring Boot para gerenciamento de países, fornecendo 
 
 Este projeto conta com um frontend desenvolvido em React, disponível em https://github.com/Dry-A/paises-api-frontend.
 
-![Em execução](https://i.ibb.co/7xfjMjdF/Screenshot-2025-05-15-120452.png)
+![Front-end](https://i.ibb.co/7xfjMjdF/Screenshot-2025-05-15-120452.png)
 
 ## Endpoints disponíveis
 
