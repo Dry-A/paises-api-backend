@@ -34,6 +34,9 @@ API REST desenvolvida com Spring Boot para gerenciamento de países, fornecendo 
 4. Execute a aplicação: `./gradlew bootRun`
 5. Acesse a API em: http://localhost:8080/api/paises
 
+!
+![Em execução](https://imgur.com/a/ghoHnR8)
+
 ## Frontend
 
 Este projeto conta com um frontend desenvolvido em React, disponível em https://github.com/Dry-A/paises-api-frontend.
